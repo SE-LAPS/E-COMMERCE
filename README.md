@@ -181,7 +181,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:codeshowlapz@gmail.com)  
+- **Email**: [CodeShow LpaZ](mailto:codeshowlapz@gmail.com)  
 
 ---
 
