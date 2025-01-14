@@ -195,4 +195,4 @@ If you like this project, please consider giving it a ⭐ on GitHub! It really h
 
 
 
-#MERNStack #ECommerceApp #ReactJS #NodeJS #MongoDB #ExpressJS #FullStackDevelopment #WebDevelopment #OpenSource #CodingProject 
+#MERNStack #ECommerceApp #ReactJS #NodeJS #MongoDB #ExpressJS 
