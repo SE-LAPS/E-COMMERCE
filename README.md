@@ -128,6 +128,7 @@ Check out the live demo: [Live Demo Link](https://your-live-demo-link.com) 🌍
 ## 📸 Screenshots
 
 ### 🏠 Home Page
+![1](https://github.com/user-attachments/assets/15bda380-e7db-49b1-b5be-ece5e905f7c9)
 
 
 ### 🛒 Product Page
