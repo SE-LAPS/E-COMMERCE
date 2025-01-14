@@ -193,6 +193,6 @@ If you like this project, please consider giving it a ⭐ on GitHub! It really h
 
 ---
 
-## 🔖 Hashtags
+
 
 #MERNStack #ECommerceApp #ReactJS #NodeJS #MongoDB #ExpressJS #FullStackDevelopment #WebDevelopment #OpenSource #CodingProject #CodeShowLapZ #DeveloperJourney
