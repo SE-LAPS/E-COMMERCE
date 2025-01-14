@@ -128,7 +128,7 @@ Check out the live demo: [Live Demo Link](https://your-live-demo-link.com) 🌍
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page Screenshot](https://your-image-link.com)
+
 
 ### 🛒 Product Page
 ![Product Page Screenshot](https://your-image-link.com)
