@@ -132,6 +132,7 @@ Check out the live demo: [Live Demo Link](https://your-live-demo-link.com) 🌍
 
 
 ### 🛒 Product Page
+![2](https://github.com/user-attachments/assets/eefb5fd5-434f-4776-9a81-99518b65bb0c)
 
 
 ### 📦 Cart Page
