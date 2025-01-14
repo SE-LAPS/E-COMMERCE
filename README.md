@@ -136,7 +136,7 @@ Check out the live demo: [Live Demo Link](https://your-live-demo-link.com) 🌍
 
 
 ### 📦 Cart Page
-
+![3](https://github.com/user-attachments/assets/3bab34f1-2175-4eea-85a1-fab291d8075b)
 
 ---
 
