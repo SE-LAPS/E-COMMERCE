@@ -121,7 +121,7 @@ ecommerce-mern-stack/
 
 ## 🌐 Live Demo
 
-Check out the live demo: [Live Demo Link](https://your-live-demo-link.com) 🌍
+Check out the live demo: [Live Demo Link](https://codeshow-lapz.web.app) 🌍
 
 ---
 
