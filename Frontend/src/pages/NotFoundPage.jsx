@@ -1,28 +1,23 @@
-import { Button, Paper, Stack, Typography } from '@mui/material'
-import React from 'react'
-import { Link } from 'react-router-dom'
-import { notFoundPageAnimation } from '../assets'
-import Lottie from 'lottie-react'
+import React from 'react';
+import { Container, Col, Button } from 'react-bootstrap';
+import Meta from '../components/Meta';
 
-
-export const NotFoundPage = () => {
+const NotFoundPage = () => {
   return (
-    <Stack justifyContent={'center'} alignItems={'center'} height={'100vh'}>
+    <Container className='position-absolute top-50 start-50 translate-middle'>
+      <Meta title={'404 Not Found'} />
+      <Col className='text-center'>
+        <h1 className='display-1 fw-bold'>404</h1>
+        <p className='fs-3'>
+          <span className='text-danger'>Opps!</span> Page not found.
+        </p>
+        <p className='lead'>The page you’re looking for doesn’t exist.</p>
+        <Button href='/' variant='primary'>
+          Go Home
+        </Button>
+      </Col>
+    </Container>
+  );
+};
 
-        <Stack rowGap={1} justifyContent={'center'} alignItems={'center'}>
-            
-            <Stack width={'25rem'}>
-                <Lottie animationData={notFoundPageAnimation}/>
-            </Stack>
-            
-            <Stack justifyContent={'center'} alignItems={'center'}>
-              <Typography variant='h4' fontWeight={500}>404 Not Found</Typography>
-              <Typography variant='h6' fontWeight={'300'}>Sorry, we coudn't find the page you were looking for</Typography>
-            </Stack>
-
-            <Button sx={{mt:3}} size='large' component={Link} to={'/'} variant='contained'>Go back to homePage</Button>
-        </Stack>
-
-    </Stack>
-  )
-}
+export default NotFoundPage;
